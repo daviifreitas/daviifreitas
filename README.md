@@ -1,26 +1,20 @@
-<h1> Hi! My name is Davi. </h1>
+# Hi ! I'm Davi Freitas  🖖
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ps.davifreitas/)
+[![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-freitas-942417215/)
 
-<div>
-  <a href="https://github.com/daviifreitas">
-  <img height="140em"   align="center" src="https://github-readme-stats.vercel.app/api?username=daviifreitas&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="140em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviifreitas&layout=compact&langs_count=7&theme=react" />
+![davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviifreitas&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviifreitas&layout=compact&theme=radical)](https://github.com/daviifreitas/github-readme-stats)
 
-  
-</div>
- <br>
-<div  align="center"> 
-  <div style="display: inline_block"><br>
+## Technologies 
 
-  <img align="center" alt="java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    
-   ##
-    
-    
-</div>
-  <a href="https://www.instagram.com/ps.davifreitas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/davi-freitas-942417215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
- 
+<div style = "display : inline_block"><br/>
+    <img align= "center alt="html5  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    <img align= "center alt="html5  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align= "center alt="html5  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img align= "center alt="html5  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img align= "center alt="html5  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img align= "center alt="html5  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    <img align= "center alt="html5  src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+ </div>
+
+![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
