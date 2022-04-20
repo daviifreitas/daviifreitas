@@ -14,7 +14,15 @@
     <img align= "center alt="html5  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align= "center alt="html5  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align= "center alt="html5  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-    <img align= "center alt="html5  src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+    
  </div>
+
+ ## Songs
+ <div style = "display : inline_block"><br/>
+    <a href="https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=8bcd653a628742a1">
+    <img align= "center alt="html5  src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+    </a>
+ </div>
+
 
 ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
