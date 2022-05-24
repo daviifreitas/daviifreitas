@@ -19,6 +19,11 @@
     
  </div>
 
+ ## Frameworks 
+ <div style = "display : inline_block"><br/>
+    <img align = "center alt= "html5 src= "https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
+ </div>
+
  ## Songs
  <div style = "display : inline_block"><br/>
     <a href="https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=8bcd653a628742a1">
