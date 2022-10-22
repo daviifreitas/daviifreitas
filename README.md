@@ -1,6 +1,11 @@
 # Hi !  🤙
 
-[![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-freitas-942417215/)
+ <div style = "display : inline_block"><br/>
+ </div>
+ Hi, I'm a systems analysis and development student and junior C# backend developer. Passionate about learning and with a thirst to always want to grow and have the baggage to be an excellent developer. An exemplifying sentence would be "When the only instrument you know is a hammer, all problems are nails . . ."
+
+ <div style = "display : inline_block"><br/>
+ </div>
 
 ![davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviifreitas&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviifreitas&layout=compact&theme=radical)](https://github.com/daviifreitas/github-readme-stats)
@@ -29,6 +34,9 @@
     <img align = "center alit = "html5 src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
     <img align = "center alit = "html5 src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=whitehttps://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
  
+ ## Social 
+ 
+ [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-freitas-942417215/)
     
  </div>
 
