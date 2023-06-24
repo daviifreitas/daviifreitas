@@ -7,9 +7,6 @@
  <div style = "display : inline_block"><br/>
  </div>
 
-![davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviifreitas&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviifreitas&layout=compact&theme=radical)](https://github.com/daviifreitas/github-readme-stats)
-
 ## Technologies 
 
 
