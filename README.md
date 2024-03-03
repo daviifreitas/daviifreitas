@@ -2,7 +2,7 @@
 
  <div style = "display : inline_block"><br/>
  </div>
- Hi, I'm a systems analysis and development student and junior C# backend developer. Passionate about learning and with a thirst to always want to grow and have the baggage to be an excellent developer. An exemplifying sentence would be "When the only instrument you know is a hammer, all problems are nails . . ."
+ Hi, I'm a software developer with .Net emphasis. Passionate about learning and with a thirst to always want to grow and have the baggage to be an excellent developer. An exemplifying sentence would be "When the only instrument you know is a hammer, all problems are nails . . ."
 
  <div style = "display : inline_block"><br/>
  </div>
